@@ -1,5 +1,7 @@
 # @trigger.dev/eslint-plugin
 
+## 2.1.10
+
 ## 2.1.9
 
 ## 2.1.8

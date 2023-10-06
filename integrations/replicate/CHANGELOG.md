@@ -1,5 +1,12 @@
 # @trigger.dev/replicate
 
+## 2.1.10
+
+### Patch Changes
+
+- @trigger.dev/integration-kit@2.1.10
+- @trigger.dev/sdk@2.1.10
+
 ## 2.1.9
 
 ### Patch Changes
